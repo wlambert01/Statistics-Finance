@@ -5,5 +5,5 @@ Study of orderbook properties in commodity trading.
 
 Orderbook Flow Simulation             |  Curve
 :-------------------------:|:-------------------------:
-![](https://github.com/wlambert01/Statistics-Finance/blob/master/orderflow2.png) |  ![](https://...Ocean.png)
+![](https://github.com/wlambert01/Statistics-Finance/blob/master/orderflow2.png) |  ![](https://github.com/wlambert01/Statistics-Finance/blob/master/curve_flow.png)
 
